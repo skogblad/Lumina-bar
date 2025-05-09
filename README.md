@@ -101,7 +101,7 @@ Designen har tagits fram i Figma och finns att hitta [här](https://www.figma.co
 
 
 
-## Authors
+## Code Authors
 
 - [@Jennifer Nilsson](https://github.com/ynnxj)
 
